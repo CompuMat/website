@@ -1,0 +1,15 @@
+.p {
+ text-align: justify;
+}
+
+.jumbotron {
+ margin-top: 30px;
+ text-align: center;
+}
+
+.container.details p {
+ background-image: url(mocule_opaq.jpg);
+ background-size: auto 135%;
+ background-position: 45% 40%;
+ background-repeat: no-repeat;
+}
