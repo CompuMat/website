@@ -7,12 +7,6 @@
  text-align: center;
 }
 
-.container.details {
- background-image: url(mocule_opaq.jpg);
- background-size: auto 135%;
- background-position: 45% 40%;
- background-repeat: no-repeat;
-}
 
 .container.details p {
  text-align: justify;
